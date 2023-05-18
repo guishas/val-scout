@@ -1,0 +1,144 @@
+{
+  "cloud9-leviatan": {
+    "Lotus": {
+      "runi": "Viper",
+      "leaf": "Neon",
+      "Zellsis": "Killjoy",
+      "Xeppaa": "Skye",
+      "jakee": "Omen"
+    },
+    "Haven": {
+      "runi": "Viper",
+      "leaf": "Neon",
+      "Zellsis": "Killjoy",
+      "Xeppaa": "Skye",
+      "jakee": "Omen"
+    }
+  },
+  "cloud9-mibr": {
+    "Split": {
+      "leaf": "Skye",
+      "Zellsis": "Killjoy",
+      "Xeppaa": "Raze",
+      "jakee": "Astra",
+      "runi": "Breach"
+    },
+    "Lotus": {
+      "leaf": "Skye",
+      "Zellsis": "Killjoy",
+      "Xeppaa": "Raze",
+      "jakee": "Astra",
+      "runi": "Breach"
+    }
+  },
+  "cloud9-sentinels": {
+    "Lotus": {
+      "leaf": "Neon",
+      "Zellsis": "Killjoy",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "runi": "Viper"
+    },
+    "Fracture": {
+      "leaf": "Neon",
+      "Zellsis": "Killjoy",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "runi": "Viper"
+    }
+  },
+  "cloud9-furia": {
+    "Ascent": {
+      "leaf": "Jett",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "runi": "Viper",
+      "Zellsis": "Killjoy"
+    },
+    "Fracture": {
+      "leaf": "Jett",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "runi": "Viper",
+      "Zellsis": "Killjoy"
+    }
+  },
+  "cloud9-nrg esports": {
+    "Haven": {
+      "leaf": "Jett",
+      "runi": "Sova",
+      "Xeppaa": "Breach",
+      "Zellsis": "Killjoy",
+      "jakee": "Omen"
+    },
+    "Pearl": {
+      "leaf": "Jett",
+      "runi": "Sova",
+      "Xeppaa": "Breach",
+      "Zellsis": "Killjoy",
+      "jakee": "Omen"
+    },
+    "Ascent": {
+      "leaf": "Jett",
+      "runi": "Sova",
+      "Xeppaa": "Breach",
+      "Zellsis": "Killjoy",
+      "jakee": "Omen"
+    }
+  },
+  "cloud9-100 thieves": {
+    "Lotus": {
+      "Zellsis": "Killjoy",
+      "runi": "Viper",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "leaf": "Neon"
+    },
+    "Ascent": {
+      "Zellsis": "Killjoy",
+      "runi": "Viper",
+      "jakee": "Omen",
+      "Xeppaa": "Skye",
+      "leaf": "Neon"
+    }
+  },
+  "cloud9-loud": {
+    "Split": {
+      "leaf": "Skye",
+      "jakee": "Astra",
+      "Zellsis": "Killjoy",
+      "runi": "Breach",
+      "Xeppaa": "Raze"
+    },
+    "Ascent": {
+      "leaf": "Skye",
+      "jakee": "Astra",
+      "Zellsis": "Killjoy",
+      "runi": "Breach",
+      "Xeppaa": "Raze"
+    },
+    "Pearl": {
+      "leaf": "Skye",
+      "jakee": "Astra",
+      "Zellsis": "Killjoy",
+      "runi": "Breach",
+      "Xeppaa": "Raze"
+    }
+  },
+  "cloud9-evil geniuses": {
+    "Pearl": {
+      "Zellsis": "Phoenix",
+      "jakee": "Astra",
+      "Xeppaa": "Skye",
+      "runi": "Sage",
+      "leaf": "Killjoy"
+    },
+    "Fracture": {
+      "Zellsis": "Phoenix",
+      "jakee": "Astra",
+      "Xeppaa": "Skye",
+      "runi": "Sage",
+      "leaf": "Killjoy"
+    }
+  }
+}

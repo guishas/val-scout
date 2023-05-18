@@ -1,0 +1,151 @@
+{
+  "leviatan-loud": {
+    "Split": {
+      "Victor": "Raze",
+      "ardiis": "Jett",
+      "crashies": "Skye",
+      "s0m": "Astra",
+      "FiNESSE": "Viper"
+    },
+    "Pearl": {
+      "Victor": "Raze",
+      "ardiis": "Jett",
+      "crashies": "Skye",
+      "s0m": "Astra",
+      "FiNESSE": "Viper"
+    }
+  },
+  "leviatan-furia": {
+    "Bind": {
+      "s0m": "Harbor",
+      "ardiis": "Sage",
+      "Victor": "Raze",
+      "crashies": "Skye",
+      "FiNESSE": "Viper"
+    },
+    "Haven": {
+      "s0m": "Harbor",
+      "ardiis": "Sage",
+      "Victor": "Raze",
+      "crashies": "Skye",
+      "FiNESSE": "Viper"
+    },
+    "Pearl": {
+      "s0m": "Harbor",
+      "ardiis": "Sage",
+      "Victor": "Raze",
+      "crashies": "Skye",
+      "FiNESSE": "Viper"
+    }
+  },
+  "leviatan-100 thieves": {
+    "Bind": {
+      "ardiis": "Sage",
+      "crashies": "Skye",
+      "Victor": "Raze",
+      "s0m": "Harbor",
+      "FiNESSE": "Viper"
+    },
+    "Fracture": {
+      "ardiis": "Sage",
+      "crashies": "Skye",
+      "Victor": "Raze",
+      "s0m": "Harbor",
+      "FiNESSE": "Viper"
+    }
+  },
+  "leviatan-kru esports": {
+    "Haven": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach",
+      "crashies": "Sova"
+    },
+    "Ascent": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach",
+      "crashies": "Sova"
+    }
+  },
+  "leviatan-cloud9": {
+    "Haven": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
+    },
+    "Pearl": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
+    },
+    "Ascent": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
+    }
+  },
+  "leviatan-mibr": {
+    "Icebox": {
+      "s0m": "Viper",
+      "Victor": "Kayo",
+      "ardiis": "Sage",
+      "crashies": "Sova",
+      "FiNESSE": "Killjoy"
+    },
+    "Pearl": {
+      "s0m": "Viper",
+      "Victor": "Kayo",
+      "ardiis": "Sage",
+      "crashies": "Sova",
+      "FiNESSE": "Killjoy"
+    },
+    "Split": {
+      "s0m": "Viper",
+      "Victor": "Kayo",
+      "ardiis": "Sage",
+      "crashies": "Sova",
+      "FiNESSE": "Killjoy"
+    }
+  },
+  "leviatan-sentinels": {
+    "Lotus": {
+      "Victor": "Jett",
+      "s0m": "Omen",
+      "ardiis": "Killjoy",
+      "crashies": "Viper",
+      "FiNESSE": "Skye"
+    },
+    "Icebox": {
+      "Victor": "Jett",
+      "s0m": "Omen",
+      "ardiis": "Killjoy",
+      "crashies": "Viper",
+      "FiNESSE": "Skye"
+    }
+  },
+  "leviatan-leviatan": {
+    "Pearl": {
+      "Victor": "Viper",
+      "s0m": "Harbor",
+      "FiNESSE": "Skye",
+      "ardiis": "Raze",
+      "crashies": "Killjoy"
+    },
+    "Lotus": {
+      "Victor": "Viper",
+      "s0m": "Harbor",
+      "FiNESSE": "Skye",
+      "ardiis": "Raze",
+      "crashies": "Killjoy"
+    }
+  }
+}
