@@ -1,18 +1,41 @@
 {
-  "leviatan-loud": {
-    "Split": {
-      "Victor": "Raze",
-      "ardiis": "Jett",
+  "leviatan-evil geniuses": {
+    "Bind": {
       "crashies": "Skye",
+      "s0m": "Harbor",
+      "ardiis": "Sage",
+      "FiNESSE": "Viper",
+      "Victor": "Raze"
+    },
+    "Split": {
+      "crashies": "Skye",
+      "s0m": "Harbor",
+      "ardiis": "Sage",
+      "FiNESSE": "Viper",
+      "Victor": "Raze"
+    }
+  },
+  "leviatan-cloud9": {
+    "Haven": {
       "s0m": "Astra",
-      "FiNESSE": "Viper"
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
     },
     "Pearl": {
-      "Victor": "Raze",
-      "ardiis": "Jett",
-      "crashies": "Skye",
       "s0m": "Astra",
-      "FiNESSE": "Viper"
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
+    },
+    "Ascent": {
+      "s0m": "Astra",
+      "Victor": "Killjoy",
+      "crashies": "Sova",
+      "ardiis": "Jett",
+      "FiNESSE": "Breach"
     }
   },
   "leviatan-furia": {
@@ -35,6 +58,22 @@
       "ardiis": "Sage",
       "Victor": "Raze",
       "crashies": "Skye",
+      "FiNESSE": "Viper"
+    }
+  },
+  "leviatan-loud": {
+    "Split": {
+      "Victor": "Raze",
+      "ardiis": "Jett",
+      "crashies": "Skye",
+      "s0m": "Astra",
+      "FiNESSE": "Viper"
+    },
+    "Pearl": {
+      "Victor": "Raze",
+      "ardiis": "Jett",
+      "crashies": "Skye",
+      "s0m": "Astra",
       "FiNESSE": "Viper"
     }
   },
@@ -68,29 +107,6 @@
       "ardiis": "Jett",
       "FiNESSE": "Breach",
       "crashies": "Sova"
-    }
-  },
-  "leviatan-cloud9": {
-    "Haven": {
-      "s0m": "Astra",
-      "Victor": "Killjoy",
-      "crashies": "Sova",
-      "ardiis": "Jett",
-      "FiNESSE": "Breach"
-    },
-    "Pearl": {
-      "s0m": "Astra",
-      "Victor": "Killjoy",
-      "crashies": "Sova",
-      "ardiis": "Jett",
-      "FiNESSE": "Breach"
-    },
-    "Ascent": {
-      "s0m": "Astra",
-      "Victor": "Killjoy",
-      "crashies": "Sova",
-      "ardiis": "Jett",
-      "FiNESSE": "Breach"
     }
   },
   "leviatan-mibr": {

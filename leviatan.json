@@ -15,6 +15,45 @@
       "Tacolilla": "Raze"
     }
   },
+  "leviatan-furia": {
+    "Pearl": {
+      "kiNgg": "Viper",
+      "Tacolilla": "Jett",
+      "nzr": "Skye",
+      "Shyy": "Killjoy",
+      "Mazino": "Harbor"
+    },
+    "Icebox": {
+      "kiNgg": "Viper",
+      "Tacolilla": "Jett",
+      "nzr": "Skye",
+      "Shyy": "Killjoy",
+      "Mazino": "Harbor"
+    },
+    "Ascent": {
+      "kiNgg": "Viper",
+      "Tacolilla": "Jett",
+      "nzr": "Skye",
+      "Shyy": "Killjoy",
+      "Mazino": "Harbor"
+    }
+  },
+  "leviatan-loud": {
+    "Haven": {
+      "nzr": "Sova",
+      "Shyy": "Killjoy",
+      "Mazino": "Omen",
+      "Tacolilla": "Jett",
+      "kiNgg": "Breach"
+    },
+    "Ascent": {
+      "nzr": "Sova",
+      "Shyy": "Killjoy",
+      "Mazino": "Omen",
+      "Tacolilla": "Jett",
+      "kiNgg": "Breach"
+    }
+  },
   "leviatan-kru esports": {
     "Haven": {
       "kiNgg": "Breach",
@@ -114,29 +153,6 @@
       "Shyy": "Skye",
       "Tacolilla": "Jett",
       "nzr": "Raze"
-    }
-  },
-  "leviatan-furia": {
-    "Pearl": {
-      "kiNgg": "Viper",
-      "Tacolilla": "Jett",
-      "nzr": "Skye",
-      "Shyy": "Killjoy",
-      "Mazino": "Harbor"
-    },
-    "Icebox": {
-      "kiNgg": "Viper",
-      "Tacolilla": "Jett",
-      "nzr": "Skye",
-      "Shyy": "Killjoy",
-      "Mazino": "Harbor"
-    },
-    "Ascent": {
-      "kiNgg": "Viper",
-      "Tacolilla": "Jett",
-      "nzr": "Skye",
-      "Shyy": "Killjoy",
-      "Mazino": "Harbor"
     }
   },
   "leviatan-nrg esports": {
